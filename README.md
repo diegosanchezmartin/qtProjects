@@ -1,7 +1,7 @@
 # qtProjects
 About free time Qt projects done.
 ## Second project
-![Calculator and Javascript](./projects/doc/calculator.png)
+![Calculator and Javascript](./projects/doc/calculadora.png)
 ## Calculator with Javascript
 Second project made with QtQuick module and its own objects. In this project some kind of buttons have been made and then they has been inserted to the code with a calculator engine made in JavaScript now in progress.
 ## First project
